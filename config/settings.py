@@ -49,6 +49,10 @@ INSTALLED_APPS = [
     'apps.listings.apps.ListingsConfig',
     'apps.reservations.apps.ReservationsConfig',
     'apps.reviews.apps.ReviewsConfig',
+
+    'rest_framework',
+    'django_filters',
+
 ]
 
 MIDDLEWARE = [
