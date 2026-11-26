@@ -21,11 +21,11 @@ FindSpot is a backend application for a housing rental platform built with Djang
 ## Stage 2 — Users and Authentication
 
 - [ ] Design database models and relationships
-- [ ] Create custom user model
+- [x] Create custom user model
 - [ ] Configure renter and landlord groups and permissions
-- [ ] Configure MySQL database
-- [ ] Configure SQLite for local development
-- [ ] Create and apply migrations
+- [x] Configure MySQL database
+- [x] Configure SQLite for local development
+- [x] Create and apply migrations
 - [ ] Implement user registration
 - [ ] Implement login and logout
 - [ ] Configure authentication
@@ -34,7 +34,7 @@ FindSpot is a backend application for a housing rental platform built with Djang
 
 ## Stage 3 — Listings
 
-- [ ] Create listing model
+- [x] Create listing model
 - [ ] Implement listing creation
 - [ ] Implement listing retrieval
 - [ ] Implement listing updates
