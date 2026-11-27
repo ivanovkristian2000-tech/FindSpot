@@ -57,7 +57,7 @@ FindSpot is a backend application for a housing rental platform built with Djang
 
 ## Stage 5 — Reservations
 
-- [ ] Create reservation model
+- [x] Create reservation model
 - [ ] Implement reservation creation
 - [ ] Validate reservation dates
 - [ ] Prevent overlapping reservations
@@ -70,7 +70,7 @@ FindSpot is a backend application for a housing rental platform built with Djang
 
 ## Stage 6 — Reviews and Ratings
 
-- [ ] Create review model
+- [x] Create review model
 - [ ] Implement ratings and reviews
 - [ ] Retrieve listing reviews
 - [ ] Validate completed reservations before reviewing
